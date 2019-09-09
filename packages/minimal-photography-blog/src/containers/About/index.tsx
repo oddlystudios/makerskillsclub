@@ -76,25 +76,25 @@ const About: React.FunctionComponent<AboutProps> = props => {
       </AboutImage>
 
       <AboutDetails>
-        <h2>Description</h2>
+        <h2>Who We Are</h2>
         <p>
-          The IRBE, as an active member of the sharing economy since 2013, works
-          with and assists a wide variety of organizations. For Fall of 2019
-          we’re happy to announce some of the partners assisting in bringing
-          creative technology to the TTL Makerspace.
+          MakerSkills Club helps creative people find local clubs that will help
+          them practice and develop their skills in both traditional and
+          high-tech fields. We list and assist both free and paid clubs. Some
+          are ongoing, others are for limited time or project-based.
         </p>
-        <h2>ProjectBoard</h2>
+        <h2>Partners</h2>
+        <h3>ProjectBoard</h3>
         <p>
-          I’m happy to announce an exciting collaboration with Engineering.com -
-          the number-one online community for engineers and the
+          Engineering.com is a large online community for engineers and the
           engineering-minded. In Fall of 2019 we’ll be hosting all of our
           programs using ProjectBoard, their ideation platform, custom-made for
-          exploring, developing and sharing projects! You’ll be able to see
-          updates from any of our programs, get to know the instructors, and
-          help us shape the experience. You can follow along online, or download
-          either the Android or iOS apps to get notifications about activities.
+          exploring, developing and sharing ideas! You’ll be able to see updates
+          from programs, get to know the mentors, and help us shape the
+          experience. You can follow along online, or download either the
+          Android or iOS apps to get notifications about activities.
         </p>
-        <h2>OddlyStudios</h2>
+        <h3>OddlyStudios</h3>
         <p>
           Oddly, a well-known creative development partner for many global
           brands is the provider for much of the equipment that lets us teach

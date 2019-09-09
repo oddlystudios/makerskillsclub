@@ -30,22 +30,25 @@ const MenuItems = [
     url: "/about",
   },
   {
-    label: "Contact",
-    url: "/contact",
-  },
-  {
-    label: "Woodworking",
+    label: "Traditional",
     url: "/tags/woodworking/",
   },
   {
-    label: "Gaming",
+    label: "Technology",
     url: "/tags/gaming/",
   },
   {
-    label: "CNC/Laser",
+    label: "Design",
     url: "/tags/fabrication/",
   },
 ]
+
+/*
+{
+    label: "Contact",
+    url: "/contact",
+  },
+*/
 
 const Navbar: React.FunctionComponent<NavbarProps> = ({
   className,
