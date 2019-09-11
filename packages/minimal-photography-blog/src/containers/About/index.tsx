@@ -29,7 +29,7 @@ const SocialLinks = [
   },
   {
     icon: <IoLogoTwitter />,
-    url: "https://twitter.com/oddlytimbot",
+    url: "https://twitter.com/maker_skills",
     tooltip: "Twitter",
   },
 ]
