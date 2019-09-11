@@ -37,3 +37,5 @@ Gain the skills of a technical artist, and learn to make game-art that creates a
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |             Thursdays, 5pm to 8pm |
 |   Starts |                   **October 3rd** |
+
+[Follow the Game Development on ProjectBoard!](https://projectboard.engineering.com/project/unity-game-development)

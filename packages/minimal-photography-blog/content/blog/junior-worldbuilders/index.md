@@ -3,7 +3,7 @@ title: Junior Worldbuilders Club
 date: "2019-09-22"
 cover: "./preview.jpg"
 tags: ["skills", "code", "gaming", "featured"]
-slug: "sharing-content-that-makes-other"
+slug: "junior-worldbuilders"
 ---
 
 Join the Junior Worldbuilders as we travel to deep space, plunge deep underwater, burrow underground and build castles in the desert.
@@ -43,3 +43,5 @@ Starting with Minecraft, the Junior Worldbuilders will work on collaborative cha
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |              Sundays, 10am to 1pm |
 |   Starts |                **September 22nd** |
+
+[Follow the Junior WorldBuilders on ProjectBoard!](https://projectboard.engineering.com/project/junior-worldbuilders-club)

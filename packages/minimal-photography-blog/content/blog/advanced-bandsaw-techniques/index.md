@@ -21,3 +21,13 @@ Through use of both theory and practice, we will dive into the knowledge and ski
 You can expect to walk out of this class a hundred percent comfortable around the bandsaw and confident in the myriad of ways you can use it.
 
 Participants must be 18 years of age or older.
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |             Wednesday, 3pm to 6pm |
+|   Starts |                           **TBA** |
+
+[Get the advanced Techniques on ProjectBoard!](https://projectboard.engineering.com/project/advanced-bandsaw-techniques)

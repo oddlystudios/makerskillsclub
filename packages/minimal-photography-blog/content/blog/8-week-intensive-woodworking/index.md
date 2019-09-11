@@ -68,3 +68,13 @@ Students can select a larger project if they have the ability to make progress b
 **Week 7 and 8**
 
 Students will have full use of the shop with full supervision, and one-on-one instruction available. Facilitator will work with students to complete their personal project in the remaining 4 hours of instruction.
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |              Thursday, 1pm to 4pm |
+|   Starts |                           **TBA** |
+
+[Get the In Depth Intro on ProjectBoard!](https://projectboard.engineering.com/project/in-depth-intro-to-woodworking)

@@ -18,3 +18,13 @@ Get Safety Certification in Woodworking! Every Saturday from 10am-1pm at the IRB
 - Belt Sander
 
 Certification is required before you can use our tools independently on Community Nights or during workshops.
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |            Saturdays, 10am to 1pm |
+|   Starts |                        **Weekly** |
+
+[Follow the Woodshop Tips on ProjectBoard!](https://projectboard.engineering.com/project/wood-shop-certification)

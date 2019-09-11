@@ -16,3 +16,13 @@ This workshop is suitable for the absolute beginner and guides you through prepa
 [Download Here](https://inkscape.org/en/download/)
 
 A mouse is recommended.
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |                Monday, 6pm to 9pm |
+|   Starts |                           **TBA** |
+
+[See the Laser course on ProjectBoard!](https://projectboard.engineering.com/project/laser-cutting-intro)

@@ -20,3 +20,13 @@ The class will cover the following:
 NOT COVERED in Class: Geometry/Vector creation in V-Carve
 
 There is a lot to cover in this class. For best use of time this will happen offline and will provide links to tutorials if one chooses to use it for their 2D. V-Carve will accept vector files from many other programs. I will provide the class with a simple 2D file to use.
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |               Tuesday, 6pm to 9pm |
+|   Starts |                           **TBA** |
+
+[See the CNC course on ProjectBoard!](https://projectboard.engineering.com/project/cnc-introduction)

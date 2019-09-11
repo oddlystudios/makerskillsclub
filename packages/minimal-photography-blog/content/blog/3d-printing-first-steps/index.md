@@ -22,3 +22,13 @@ You will bring home a 3d printed object of your own making.
 A mouse and any adapters needed to save a file onto a Micro SD card are recommended.
 
 \*Membership for \$77/month is required except during our community nights (Wednesdays 5-10pm)
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |                Monday, 6pm to 9pm |
+|   Starts |                           **TBA** |
+
+[Jump Into 3D Printing on ProjectBoard!](https://projectboard.engineering.com/project/3d-printing-first-steps)

@@ -18,3 +18,13 @@ We will cover:
 - Turning a Pen!
 
 **Note:** No woodworking experience is required. You must have short sleeves, flat closed toes shoes and have long hair tied back. Personal safety equipment will be supplied. Pen kits may not match the pictures used for this class.
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |              Thursday, 6pm to 9pm |
+|   Starts |                           **TBA** |
+
+[See the Workshop on ProjectBoard!](https://projectboard.engineering.com/project/pen-turning-workshop)

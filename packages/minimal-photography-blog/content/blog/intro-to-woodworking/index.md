@@ -87,3 +87,13 @@ you through preparing your own vector graphic design file in Inkscape and settin
 **Week 7 and 8**
 
 Students will have full use of the shop with full supervision, and one-on-one instruction is available. Facilitator will work with students to complete their person project in the remaining 4 hours of instruction.
+
+## Time and Location
+
+|  Program |                            Adults |
+| -------: | --------------------------------: |
+| Location | Toronto Tool Library, 192 Spadina |
+|      Day |                Friday, 5pm to 8pm |
+|   Starts |                           **TBA** |
+
+[See the Intermediate course on ProjectBoard!](https://projectboard.engineering.com/project/in-depth-intermediate-woodworking)
