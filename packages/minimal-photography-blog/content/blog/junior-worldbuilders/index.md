@@ -45,4 +45,6 @@ Starting with Minecraft, the Junior Worldbuilders will work on collaborative cha
 |   Starts |                **September 22nd** |
 |  Runs To |                   **November 10** |
 
+## [Register on Universe](https://www.universe.com/events/junior-worldbuilders-7-week-minecraft-club-tickets-8Q54TZ)
+
 [Follow the Junior WorldBuilders on ProjectBoard!](https://projectboard.engineering.com/project/junior-worldbuilders-club)
