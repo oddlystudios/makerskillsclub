@@ -2,7 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import _ from "lodash"
 import Img from "gatsby-image"
-import Button from "components/Button/button"
+import Button from "components/Button/Button"
 import {
   PostSlideCardWrapper,
   PostPreview,
