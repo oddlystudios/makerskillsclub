@@ -1,8 +1,8 @@
 ---
 title: In-Depth Intro to Woodworking 2
-date: "2018-05-21"
-cover: "./preview.jpg"
-tags: ["skills", "woodworking", "intro"]
+date: ''
+cover: './preview.jpg'
+tags: ['skills', 'woodworking', 'intro']
 ---
 
 Beyond the basic certification, you're ready to roll up sleeves and plunge into woodworking. Gain basic techniques and increase your skills by working on three separate projects, guided by and experienced instructor.

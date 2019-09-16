@@ -1,6 +1,6 @@
 ---
 title: In Depth Intro to Woodworking 8-week
-date: '2018-05-20'
+date: '2019-09-19'
 cover: './preview.jpg'
 tags: ['skills', 'woodworking', 'advanced', 'featured']
 ---

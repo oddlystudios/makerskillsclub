@@ -43,6 +43,10 @@ const PostCard: React.FunctionComponent<PostCardProps> = ({
     addAllClasses.push(className)
   }
 
+  if (date == "Invalid date") {
+    date = "NA"
+  }
+
   return (
     <PostCardWrapper className={addAllClasses.join(" ")} {...props}>
       {image == null ? null : (

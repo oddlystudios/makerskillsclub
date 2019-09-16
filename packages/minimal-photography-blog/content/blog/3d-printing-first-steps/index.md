@@ -1,8 +1,8 @@
 ---
 title: 3D Printing First Steps
-date: "2019-05-24"
-tags: ["skills", "3D", "fabrication", "intro"]
-cover: "./preview.jpg"
+date: '2019-09-19'
+tags: ['skills', '3D', 'fabrication', 'intro']
+cover: './preview.jpg'
 ---
 
 Interested in 3D printing and wondering if it is for you? Got an idea you would like to try out? Learn the basics and some of the most common gotchas for a smooth transition into additive prototyping with 3D printing.
@@ -25,10 +25,13 @@ A mouse and any adapters needed to save a file onto a Micro SD card are recommen
 
 ## Time and Location
 
-|  Program |                            Adults |
+|  Program |                   Adults (16yrs+) |
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |                Monday, 6pm to 9pm |
-|   Starts |                           **TBA** |
+|   Starts |                      **Sept. 19** |
+|     Ends |                      **Sept. 19** |
+
+## [Register on Universe](https://www.universe.com/events/3d-printing-and-design-3d-printer-certification-class-tickets-toronto-GN5613)
 
 [Jump Into 3D Printing on ProjectBoard!](https://projectboard.engineering.com/project/3d-printing-first-steps)
