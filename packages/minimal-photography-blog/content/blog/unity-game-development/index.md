@@ -1,8 +1,8 @@
 ---
 title: Unity Game Development
-date: "2019-10-03"
-cover: "./preview.jpg"
-tags: ["skills", "gaming", "code"]
+date: '2019-10-03'
+cover: './preview.jpg'
+tags: ['skills', 'gaming', 'code']
 ---
 
 Ready to dive into real game development? Learn to use the powerful, versatile Unity platform to design, program, and publish your very own games. This club gets you from start to finished game.
@@ -37,5 +37,8 @@ Gain the skills of a technical artist, and learn to make game-art that creates a
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |             Thursdays, 5pm to 8pm |
 |   Starts |                   **October 3rd** |
+|     Ends |                   **November 14** |
+
+## [Register for Unity Game Dev](https://www.universe.com/events/unity-game-dev-7-week-course-tickets-SV64LT)
 
 [Follow the Game Development on ProjectBoard!](https://projectboard.engineering.com/project/unity-game-development)

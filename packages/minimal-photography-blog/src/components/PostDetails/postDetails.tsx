@@ -41,6 +41,9 @@ const PostDetails: React.FunctionComponent<PostDetailsProps> = ({
   if (className) {
     addClass.push(className)
   }
+  if (date == "Invalid date") {
+    date = "NA"
+  }
 
   return (
     <PostDetailsWrapper {...props} className={addClass.join(" ")}>

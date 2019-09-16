@@ -1,8 +1,8 @@
 ---
 title: Pen Turning
-date: "2019-05-23"
-cover: "./preview.jpg"
-tags: ["skills", "lathe", "intro", "workshop"]
+date: ''
+cover: './preview.jpg'
+tags: ['skills', 'lathe', 'intro', 'workshop']
 ---
 
 A dedicated lathe-skills workshop, you'll create your own beautiful fountain pen in this guided making session. Pick up the basics of turning wood on a lathe while crafting your own beautiful keepsake. Makes a beautiful personal gift.
