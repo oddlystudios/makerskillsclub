@@ -35,7 +35,7 @@ const MenuItems = [
   },
   {
     label: "Technology",
-    url: "/tags/gaming/",
+    url: "/tags/code/",
   },
   {
     label: "Design",

@@ -1,8 +1,8 @@
 ---
 title: Golang for Robots
-date: "2018-10-07"
-cover: "./preview.jpg"
-tags: ["skills", "code", "robots", "featured"]
+date: ''
+cover: './preview.jpg'
+tags: ['skills', 'code', 'robots', 'featured']
 ---
 
 Go is the exciting, powerful language created by Google and stirring up development. Join your guide in learning the Go programming language by programming robots! Sensors, motor-control, IOT, and data-visualization will be explored in-depth.
