@@ -1,8 +1,8 @@
 ---
 title: Lathe Beginners Club
-date: "2019-05-26"
-tags: ["skills", "lathe", "woodworking", "intro"]
-cover: "./preview.jpg"
+date: '2019-09-28'
+tags: ['skills', 'lathe', 'woodworking', 'intro']
+cover: './preview.jpg'
 ---
 
 Jump in for your first steps using a lathe, and get your certification. This group is for people completely new to wood-turning, and is a requirement for use of the lathe in the makerspace.
@@ -18,6 +18,9 @@ Certification gives you access to use of the wood lathe during community nights.
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |                Friday, 1pm to 4pm |
-|   Starts |                           **TBA** |
+|   Starts |                      **Sept. 28** |
+|     Ends |                      **Sept. 28** |
+
+## [Register on Universe](https://www.universe.com/events/lathe-workshop-woodturning-introduction-tickets-toronto-1PZYBT)
 
 [See the Club on ProjectBoard!](https://projectboard.engineering.com/project/lathe-beginners-club)

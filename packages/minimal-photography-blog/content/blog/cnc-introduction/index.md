@@ -1,8 +1,8 @@
 ---
 title: CNC Introduction
-date: "2019-05-25"
-tags: ["skills", "cnc", "fabrication", "intro"]
-cover: "./preview.jpg"
+date: '2019-10-01'
+tags: ['skills', 'cnc', 'fabrication', 'intro']
+cover: './preview.jpg'
 ---
 
 A guided introduction to the world of reductive CNC prototyping using the Omni CNC Mill and the software Vcarve. Learn the basics of designing and programming basic computerized cuts on this amazing machine.
@@ -27,6 +27,9 @@ There is a lot to cover in this class. For best use of time this will happen off
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |               Tuesday, 6pm to 9pm |
-|   Starts |                           **TBA** |
+|   Starts |                        **Oct. 1** |
+|     Ends |                        **Oct. 8** |
+
+## [Register on Universe](https://www.universe.com/events/intro-to-cnc-vcarve-class-cnc-router-certification-tickets-toronto-JKMXPZ)
 
 [See the CNC course on ProjectBoard!](https://projectboard.engineering.com/project/cnc-introduction)

@@ -1,8 +1,8 @@
 ---
-title: "Advanced Bandsaw Techniques"
-date: "2019-04-16"
-cover: "./preview.jpg"
-tags: ["skills", "woodworking", "advanced"]
+title: 'Advanced Bandsaw Techniques'
+date: '2019-09-18'
+cover: './preview.jpg'
+tags: ['skills', 'woodworking', 'advanced']
 ---
 
 The bandsaw, a staple of every woodworking shop, is an incredibly versatile tool. Learn advanced techniques and create designs you might not have thought possible with this club that goes beyond the basics.
@@ -24,10 +24,13 @@ Participants must be 18 years of age or older.
 
 ## Time and Location
 
-|  Program |                            Adults |
+|  Program |                   Adults (16yrs+) |
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |             Wednesday, 3pm to 6pm |
-|   Starts |                           **TBA** |
+|   Starts |                      **Sept. 18** |
+|     Ends |                      **Sept. 18** |
+
+## [Register on Universe](https://www.universe.com/events/bandsaw-tips-tricks-and-pro-skills-tickets-toronto-TKJ3XY)
 
 [Get the advanced Techniques on ProjectBoard!](https://projectboard.engineering.com/project/advanced-bandsaw-techniques)

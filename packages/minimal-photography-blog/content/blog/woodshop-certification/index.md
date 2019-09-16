@@ -1,8 +1,8 @@
 ---
 title: Woodshop Certification
-date: "2018-05-22"
-cover: "./preview.jpg"
-tags: ["skills", "woodshop", "intro"]
+date: '2019-09-21'
+cover: './preview.jpg'
+tags: ['skills', 'woodshop', 'intro']
 ---
 
 This certification class is necessary for use of the woodshop at the TTL Makerspace. Get up to speed quickly, and learn all the basic features of the table saw, bandsaw, drill press, jointer, and miter saw. Learn to be safe.

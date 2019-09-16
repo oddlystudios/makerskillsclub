@@ -1,8 +1,8 @@
 ---
 title: In Depth Intro to Woodworking 8-week
-date: "2018-05-20"
-cover: "./preview.jpg"
-tags: ["skills", "woodworking", "advanced", "featured"]
+date: '2018-05-20'
+cover: './preview.jpg'
+tags: ['skills', 'woodworking', 'advanced', 'featured']
 ---
 
 You've got the basics, now level up your skills in traditional woodworking. Learn complex joinery, lamination, press-fitting and more in a fully equipped woodworking shop. Bring your project ideas and prepare to make them happen.
@@ -75,6 +75,9 @@ Students will have full use of the shop with full supervision, and one-on-one in
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |              Thursday, 1pm to 4pm |
-|   Starts |                           **TBA** |
+|   Starts |                      **Sept. 19** |
+|   Starts |                       **Nov. 31** |
+
+## [Register on Universe](https://www.universe.com/events/in-depth-intro-to-woodworking-8-week-intensive-tickets-toronto-7ZNS0P)
 
 [Get the In Depth Intro on ProjectBoard!](https://projectboard.engineering.com/project/in-depth-intro-to-woodworking)
