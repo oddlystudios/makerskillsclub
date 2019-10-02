@@ -32,12 +32,12 @@ Gain the skills of a technical artist, and learn to make game-art that creates a
 
 ## Time and Location
 
-|  Program |                      Youth, Adult |
+|  Program |                Youth, Young Adult |
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
 |      Day |             Thursdays, 5pm to 8pm |
-|   Starts |                   **October 3rd** |
-|     Ends |                   **November 14** |
+|   Starts |       **Orientation October 3rd** |
+|     Ends |                   **November 21** |
 
 ## [Register for Unity Game Dev](https://www.universe.com/events/unity-game-dev-7-week-course-tickets-SV64LT)
 
