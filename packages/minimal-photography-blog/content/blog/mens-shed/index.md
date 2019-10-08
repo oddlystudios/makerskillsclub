@@ -1,6 +1,6 @@
 ---
 title: Men's Shed
-date: "2019-04-22"
+date: "2019-10-08"
 tags: ["events", "community"]
 cover: "./preview.jpg"
 ---
