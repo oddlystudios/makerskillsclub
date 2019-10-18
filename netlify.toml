@@ -1,4 +1,2 @@
 [build]
   ignore = "git diff --quiet HEAD^ HEAD packages/personal-blog/"
-  command = "npm i yarn@1.10.1 && yarn && yarn photography-build"
-  publish = "packages/minimal-photography-blog/public/"
