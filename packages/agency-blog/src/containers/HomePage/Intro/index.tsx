@@ -1,6 +1,6 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
-import SocialProfile from "components/SocialProfile/SocialProfile"
+import SocialProfile from "../../../components/SocialProfile/SocialProfile"
 import {
   IntroWrapper,
   IntroTitle,
