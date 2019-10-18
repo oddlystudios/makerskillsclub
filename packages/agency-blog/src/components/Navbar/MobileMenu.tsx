@@ -10,7 +10,7 @@ import {
   DrawerLogo,
   DrawerClose,
   HamburgerIcon,
-} from "./navbar.style"
+} from "./Navbar.style"
 import { FiX } from "react-icons/fi"
 
 type MobileMenuProps = {
