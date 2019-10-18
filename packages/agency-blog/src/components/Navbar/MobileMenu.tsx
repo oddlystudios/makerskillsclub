@@ -2,7 +2,7 @@ import React, { useContext } from "react"
 import { Link } from "gatsby"
 import Drawer from "components/Drawer/drawer"
 import { DrawerContext } from "components/Drawer/drawerContext"
-import Menu from "./menu"
+import Menu from "./Menu"
 import {
   MobileMenuWrapper,
   DrawerContentWrapper,
