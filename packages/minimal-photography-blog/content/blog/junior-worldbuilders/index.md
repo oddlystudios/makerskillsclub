@@ -1,9 +1,9 @@
 ---
 title: Junior Worldbuilders Club
-date: '2019-09-22'
-cover: './preview.jpg'
-tags: ['skills', 'code', 'gaming', 'featured']
-slug: 'junior-worldbuilders'
+date: "2019-12-01"
+cover: "./preview.jpg"
+tags: ["skills", "code", "gaming", "featured"]
+slug: "junior-worldbuilders"
 ---
 
 Join the Junior Worldbuilders as we travel to deep space, plunge deep underwater, burrow underground and build castles in the desert.
@@ -16,6 +16,10 @@ Along the way, the Junior Worldbuilders will learn real skills like working with
 
 For those who want to take their technical skills to the next level, the Junior Worldbuilders provides a foundation for Unity Game Dev.
 
+### Who is this for?
+
+This club is for builders, creators, kids with curious minds. It's for kids that like to draw, take things apart, craft, and otherwise exercise creativity.
+
 ## Club Activities
 
 **Build a Gaming Box!**
@@ -25,15 +29,15 @@ Using the well-known Raspberry Pi single-board computer, members will learn to:
 - Set up an operating system
 - Format and manage disks
 - Install and use emulators
-- Install and manage Java mods
+- Craft a custom case using 3D Printing and Woodworking
 
 **Crafting Worlds**
 
-Starting with Minecraft, the Junior Worldbuilders will work on collaborative challenges that encourage creativity, cooperation, and healthy balanced competition. Challenges are instructor-lead and provide a fun, healthy way to build both technical and social skills. Some challenges include:
+Starting with Minecraft, the Junior Worldbuilders will work on collaborative challenges that encourage creativity, cooperation, and healthy balanced competition. Challenges are _instructor-lead_ and provide a fun, healthy way to build both technical and social skills. Some challenges include:
 
 - Create a space program
-- Wyvern races
-- Manage an underwater ecology
+- Make Redstone contraptions
+- Create a mining operation
 - Build a desert farm
 
 ## Time and Location
@@ -41,10 +45,8 @@ Starting with Minecraft, the Junior Worldbuilders will work on collaborative cha
 |  Program |             Youth (9yrs to 15yrs) |
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
-|      Day |              Sundays, 10am to 1pm |
-|   Starts |                **September 22nd** |
-|  Runs To |                   **November 10** |
-
-## [Register on Universe](https://www.universe.com/events/junior-worldbuilders-7-week-minecraft-club-tickets-8Q54TZ)
+|      Day |           Saturdays, 10am to 12pm |
+|   Starts |                   **December 01** |
+|  Runs To |                    **January 12** |
 
 [Follow the Junior WorldBuilders on ProjectBoard!](https://projectboard.engineering.com/project/junior-worldbuilders-club)

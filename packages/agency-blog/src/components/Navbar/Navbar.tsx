@@ -14,7 +14,7 @@ import HeaderWrapper, {
   SearchCloseButton,
   NavSearchFromWrapper,
 } from "./Navbar.style"
-import LogoImage from "../../images/logo.png"
+import LogoImage from "../../images/logo_100.png"
 
 type NavbarProps = {
   className?: string
@@ -26,16 +26,16 @@ const MenuItems = [
     url: "/",
   },
   {
-    label: "About",
-    url: "/about",
+    label: "Membership",
+    url: "/membership",
+  },
+  {
+    label: "Makerspace",
+    url: "/makerspace",
   },
   {
     label: "Contact",
     url: "/contact",
-  },
-  {
-    label: "404 Page",
-    url: "/404",
   },
 ]
 

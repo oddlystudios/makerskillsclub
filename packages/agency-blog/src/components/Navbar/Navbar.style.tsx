@@ -1,18 +1,18 @@
-import styled from 'styled-components';
-import { themeGet } from 'styled-system';
+import styled from "styled-components"
+import { themeGet } from "styled-system"
 
 const HeaderWrapper = styled.header`
   position: relative;
   z-index: 99999;
   transition: 0.25s ease-in-out;
-`;
+`
 
 export const NavbarWrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid ${themeGet('borderColor', '#DBDBDB')};
-  padding: 30px 75px;
+  border-bottom: 1px solid ${themeGet("borderColor", "#DBDBDB")};
+  padding: 20px 75px;
   background-color: #fff;
   transition: 0.25s ease-in-out;
   @media (max-width: 1400px) {
@@ -24,7 +24,7 @@ export const NavbarWrapper = styled.div`
   @media (max-width: 575px) {
     padding: 3px 15px;
   }
-`;
+`
 
 export const Logo = styled.div`
   margin-right: 50px;
@@ -40,7 +40,7 @@ export const Logo = styled.div`
     max-width: 100%;
     height: auto;
   }
-`;
+`
 
 export const MenuWrapper = styled.div`
   display: flex;
@@ -48,13 +48,13 @@ export const MenuWrapper = styled.div`
   @media (max-width: 990px) {
     display: none;
   }
-`;
+`
 
 export const MenuItemWrapper = styled.ul`
   display: flex;
   align-items: center;
   margin-left: auto;
-`;
+`
 
 export const MenuItem = styled.li`
   margin: 0 20px;
@@ -62,21 +62,21 @@ export const MenuItem = styled.li`
   a {
     padding: 5px 10px;
     white-space: nowrap;
-    font-size: ${themeGet('fontSizes.3', '15')}px;
-    line-height: ${themeGet('lineHeights.normal', '1')};
-    font-weight: ${themeGet('fontWeights.3', '400')};
-    color: ${themeGet('colors.lightTextColor', '#757575')};
+    font-size: ${themeGet("fontSizes.3", "15")}px;
+    line-height: ${themeGet("lineHeights.normal", "1")};
+    font-weight: ${themeGet("fontWeights.3", "400")};
+    color: ${themeGet("colors.lightTextColor", "#757575")};
     transition: 0.15s ease-in-out;
 
     &:hover {
-      color: ${themeGet('colors.textColor', '#292929')};
+      color: ${themeGet("colors.textColor", "#292929")};
     }
     &.active-link {
-      color: ${themeGet('colors.textColor', '#292929')};
-      font-weight: ${themeGet('fontWeights.4', '500')};
+      color: ${themeGet("colors.textColor", "#292929")};
+      font-weight: ${themeGet("fontWeights.4", "500")};
     }
   }
-`;
+`
 
 export const NavSearchButton = styled.button`
   background: transparent;
@@ -91,7 +91,7 @@ export const NavSearchButton = styled.button`
   svg {
     display: block;
   }
-`;
+`
 
 export const SearchCloseButton = styled.button`
   width: 54px;
@@ -118,7 +118,7 @@ export const SearchCloseButton = styled.button`
   svg {
     display: block;
   }
-`;
+`
 
 export const NavSearchWrapper = styled.div`
   display: flex;
@@ -171,7 +171,7 @@ export const NavSearchWrapper = styled.div`
       }
     }
   }
-`;
+`
 
 export const NavSearchFromWrapper = styled.div`
   display: flex;
@@ -196,13 +196,13 @@ export const NavSearchFromWrapper = styled.div`
   @media (max-width: 767px) {
     padding: 0 25px;
   }
-`;
+`
 
 export const MobileMenuWrapper = styled.div`
   @media (min-width: 991px) {
     display: none;
   }
-`;
+`
 
 export const DrawerContentWrapper = styled.div`
   .mobile-menu {
@@ -221,20 +221,20 @@ export const DrawerContentWrapper = styled.div`
           }
         }
         &:before {
-          content: '';
+          content: "";
           position: absolute;
           width: 3px;
           height: 18px;
           top: 50%;
           left: 0;
           opacity: 0;
-          background: ${themeGet('colors.textColor', '#292929')};
+          background: ${themeGet("colors.textColor", "#292929")};
           transform: translateY(-50%);
         }
       }
     }
   }
-`;
+`
 
 export const DrawerHead = styled.div`
   display: flex;
@@ -242,7 +242,7 @@ export const DrawerHead = styled.div`
   justify-content: space-between;
   border-bottom: 1px solid #dbdbdb;
   padding: 3px 0;
-`;
+`
 
 export const DrawerLogo = styled.div`
   max-width: 110px;
@@ -250,7 +250,7 @@ export const DrawerLogo = styled.div`
   img {
     max-width: 100%;
   }
-`;
+`
 
 export const DrawerClose = styled.div`
   height: 45px;
@@ -259,7 +259,7 @@ export const DrawerClose = styled.div`
   justify-content: center;
   font-size: 23px;
   padding: 0 15px;
-`;
+`
 
 export const HamburgerIcon = styled.div`
   width: 30px;
@@ -271,13 +271,13 @@ export const HamburgerIcon = styled.div`
   span {
     display: block;
     height: 2px;
-    background-color: ${themeGet('colors.textColor', '#292929')};
+    background-color: ${themeGet("colors.textColor", "#292929")};
     margin-bottom: 5px;
     &:last-child {
       margin-bottom: 0;
       width: 20px;
     }
   }
-`;
+`
 
-export default HeaderWrapper;
+export default HeaderWrapper

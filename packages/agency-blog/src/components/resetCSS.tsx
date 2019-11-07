@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components"
 
 const ResetCSS = createGlobalStyle`
   html {
-    font-size: 15px;
+    font-size: 18px;
     box-sizing: border-box;
     -ms-overflow-style: scrollbar;
   }
@@ -54,7 +54,7 @@ const ResetCSS = createGlobalStyle`
     font-family: 'Fira Sans',sans-serif;
     margin: 0;
     padding: 0;
-    font-size: 15px;
+    font-size: 18px;
     overflow-x: hidden;
     -webkit-tap-highlight-color: transparent;
   }

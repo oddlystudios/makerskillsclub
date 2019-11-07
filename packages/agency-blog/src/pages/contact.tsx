@@ -8,10 +8,7 @@ type ContactPageProps = {}
 const ContactPage: React.FunctionComponent<ContactPageProps> = props => {
   return (
     <Layout>
-      <SEO
-        title="Contact Us"
-        description="StoryHub is a beautiful Gatsby Blog theme designed to showcase your work in style. Perfect for designers, artists, photographers and developers to use for their portfolio website."
-      />
+      <SEO title="Contact Us" description="Contact Tool Lending Makerspace" />
 
       <Contact />
     </Layout>

@@ -1,8 +1,8 @@
 ---
-title: Perfecting the Art of Perfection
-date: '2019-05-24'
-tags: ['art', 'perfection']
-cover: './preview.png'
+title: Sharing things makes sense
+date: "2019-05-24"
+tags: ["art", "perfection"]
+cover: "./preview.png"
 ---
 
 An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.

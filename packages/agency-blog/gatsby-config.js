@@ -4,10 +4,10 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `StoryHub`,
-    author: `Monnisa`,
-    about: `Every company has a story to tell, so break out your storytelling skills from that random English class you took years ago and put them to work on your “About Us” page. Using descriptive and emotive copy and gorgeous graphics, an “About Us” page with a story works.`,
-    description: `A Gatsby Blog`,
+    title: `TTL`,
+    author: `OddlyTimbot`,
+    about: `Access thousands of tools for home renovations, gardening and lawn maintenance, repairs, DIY projects and more! Annual memberships start at $55/year. Start borrowing today!`,
+    description: `Tool Lending and Makerspace`,
     siteUrl: `https://storyhub-agency-tarex.redq.now.sh/`,
   },
   plugins: [
