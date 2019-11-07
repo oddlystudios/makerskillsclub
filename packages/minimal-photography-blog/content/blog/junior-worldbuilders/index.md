@@ -45,8 +45,10 @@ Starting with Minecraft, the Junior Worldbuilders will work on collaborative cha
 |  Program |             Youth (9yrs to 15yrs) |
 | -------: | --------------------------------: |
 | Location | Toronto Tool Library, 192 Spadina |
-|      Day |           Saturdays, 10am to 12pm |
+|      Day |            Saturdays, 10am to 1pm |
 |   Starts |                   **December 01** |
 |  Runs To |                    **January 12** |
+
+## [Register on Universe](https://www.universe.com/events/junior-worldbuilders-7-week-minecraft-club-tickets-6VC715)
 
 [Follow the Junior WorldBuilders on ProjectBoard!](https://projectboard.engineering.com/project/junior-worldbuilders-club)

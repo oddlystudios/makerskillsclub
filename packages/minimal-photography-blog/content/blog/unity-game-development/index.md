@@ -39,4 +39,6 @@ Gain the skills of a technical artist, and learn to make game-art that creates a
 |   Starts |                   **December 05** |
 |     Ends |                    **January 23** |
 
+## [Register on Universe](https://www.universe.com/events/unity-game-dev-7-week-course-tickets-BJD71K)
+
 [Follow the Game Development on ProjectBoard!](https://projectboard.engineering.com/project/unity-game-development)
